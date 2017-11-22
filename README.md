@@ -1,2 +1,2 @@
 # SmartIncubator
-Simple smart egg incubator this PID and automatic programm
+Simple smart egg incubator this PID and automatic program
